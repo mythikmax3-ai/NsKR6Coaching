@@ -1,0 +1,11 @@
+
+  # Coaching Service Website
+
+  This is a code bundle for Coaching Service Website. The original project is available at https://www.figma.com/design/6iOtZBZlbg8pgWApgIk6Qn/Coaching-Service-Website.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
